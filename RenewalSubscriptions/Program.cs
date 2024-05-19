@@ -1,6 +1,5 @@
 ﻿Random random = new Random();
 int daysUntilExpiration = random.Next(12);
-int discountPercentage = 0;
 
 if (daysUntilExpiration == 1) {
     Console.WriteLine("Your subscription expires within a day!\nRenew now and save 20%!");

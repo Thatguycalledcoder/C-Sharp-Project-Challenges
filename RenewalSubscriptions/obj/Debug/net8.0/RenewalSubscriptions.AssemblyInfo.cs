@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RenewalSubscriptions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44f593290e3eb1eda028f4b63840e1dfda1444fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfbd7ef3d904e12557c2dfe432a9bd7ba48234e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("RenewalSubscriptions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RenewalSubscriptions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

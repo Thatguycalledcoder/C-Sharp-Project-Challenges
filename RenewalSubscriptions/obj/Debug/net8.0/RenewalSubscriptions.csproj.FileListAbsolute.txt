@@ -3,3 +3,13 @@ C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-
 C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\obj\Debug\net8.0\RenewalSubscriptions.AssemblyInfo.cs
 C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\obj\Debug\net8.0\RenewalSubscriptions.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\obj\Debug\net8.0\RenewalSubscriptions.sourcelink.json
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\bin\Debug\net8.0\RenewalSubscriptions.exe
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\bin\Debug\net8.0\RenewalSubscriptions.deps.json
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\bin\Debug\net8.0\RenewalSubscriptions.runtimeconfig.json
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\bin\Debug\net8.0\RenewalSubscriptions.dll
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\bin\Debug\net8.0\RenewalSubscriptions.pdb
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\obj\Debug\net8.0\RenewalSubscriptions.dll
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\obj\Debug\net8.0\refint\RenewalSubscriptions.dll
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\obj\Debug\net8.0\RenewalSubscriptions.pdb
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\obj\Debug\net8.0\RenewalSubscriptions.genruntimeconfig.cache
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\obj\Debug\net8.0\ref\RenewalSubscriptions.dll
