@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\obj\Debug\net8.0\RenewalSubscriptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\obj\Debug\net8.0\RenewalSubscriptions.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\obj\Debug\net8.0\RenewalSubscriptions.AssemblyInfo.cs
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\obj\Debug\net8.0\RenewalSubscriptions.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\RenewalSubscriptions\obj\Debug\net8.0\RenewalSubscriptions.sourcelink.json
