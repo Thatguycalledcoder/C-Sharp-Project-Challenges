@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\obj\Debug\net8.0\CoinToss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\obj\Debug\net8.0\CoinToss.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\obj\Debug\net8.0\CoinToss.AssemblyInfo.cs
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\obj\Debug\net8.0\CoinToss.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\obj\Debug\net8.0\CoinToss.sourcelink.json
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\bin\Debug\net8.0\CoinToss.exe
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\bin\Debug\net8.0\CoinToss.deps.json
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\bin\Debug\net8.0\CoinToss.runtimeconfig.json
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\bin\Debug\net8.0\CoinToss.dll
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\bin\Debug\net8.0\CoinToss.pdb
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\obj\Debug\net8.0\CoinToss.dll
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\obj\Debug\net8.0\refint\CoinToss.dll
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\obj\Debug\net8.0\CoinToss.pdb
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\obj\Debug\net8.0\CoinToss.genruntimeconfig.cache
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\CoinToss\obj\Debug\net8.0\ref\CoinToss.dll

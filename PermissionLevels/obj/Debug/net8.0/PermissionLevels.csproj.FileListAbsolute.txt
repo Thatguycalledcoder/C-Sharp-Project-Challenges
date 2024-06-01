@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\bin\Debug\net8.0\PermissionLevels.exe
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\bin\Debug\net8.0\PermissionLevels.deps.json
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\bin\Debug\net8.0\PermissionLevels.runtimeconfig.json
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\bin\Debug\net8.0\PermissionLevels.dll
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\bin\Debug\net8.0\PermissionLevels.pdb
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\obj\Debug\net8.0\PermissionLevels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\obj\Debug\net8.0\PermissionLevels.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\obj\Debug\net8.0\PermissionLevels.AssemblyInfo.cs
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\obj\Debug\net8.0\PermissionLevels.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\obj\Debug\net8.0\PermissionLevels.sourcelink.json
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\obj\Debug\net8.0\PermissionLevels.dll
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\obj\Debug\net8.0\refint\PermissionLevels.dll
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\obj\Debug\net8.0\PermissionLevels.pdb
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\obj\Debug\net8.0\PermissionLevels.genruntimeconfig.cache
+C:\Users\USER\Desktop\Village Disk(E)\Computer recipes\third alphabet on high\C-Sharp-Project-Challenges\PermissionLevels\obj\Debug\net8.0\ref\PermissionLevels.dll
